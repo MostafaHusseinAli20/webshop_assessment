@@ -105,4 +105,4 @@ Before running the application, ensure you have the following installed:
     php artisan key:generate
 
 ## Api Documentation
-[text](https://documenter.getpostman.com/view/33597755/2sB2jAbTvk)
+[Api Documentation Link](https://documenter.getpostman.com/view/33597755/2sB2jAbTvk)
