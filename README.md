@@ -78,5 +78,31 @@ Additionally, **unit tests** were written and executed to verify the correctness
 
 ---
 
+## Prerequisites
+
+Before running the application, ensure you have the following installed:
+
+- **PHP** (version 8.x or later)
+- **Composer** (dependency manager for PHP)
+- **Laravel** (installed via Composer)
+- **Database** (SQLite, MySQL, or PostgreSQL)
+- **Node.js and npm** (for frontend if necessary)
+- **Postman** (for testing API endpoints)
+
+---
+
+## Setup Steps
+
+1. **Clone the Repository**
+   First, clone the repository to your local machine:
+   ```bash
+   git clone <repository-url>
+   cd <project-directory>
+   
+2. **Configure Environment**
+    ````bash
+    cp .env.example .env
+    php artisan key:generate
+
 ## Api Documentation
 [text](https://documenter.getpostman.com/view/33597755/2sB2jAbTvk)
