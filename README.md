@@ -86,7 +86,6 @@ Before running the application, ensure you have the following installed:
 - **Composer** (dependency manager for PHP)
 - **Laravel** (installed via Composer)
 - **Database** (MySQL)
-- **Node.js and npm** (for frontend if necessary)
 - **Postman** (for testing API endpoints)
 
 ---
